@@ -1,0 +1,10 @@
+{
+    "blogs":[
+    
+        {"title":"' my new website'","body":"'this is the first react'","author":"'babu1'" ,"id":"0"},
+
+        {"title":"'my second website'","body":"'this is my second website'","author":"'babu2'","id":"1"},
+        {"title":"'my thid website '","body":"' this is third website'","author":"'babu3'","id":"2"}
+    
+]
+}
