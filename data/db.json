@@ -1,10 +1,10 @@
 {
-    "blogs":[
-    
-        {"title":"' my new website'","body":"'this is the first react'","author":"'babu1'" ,"id":"0"},
-
-        {"title":"'my second website'","body":"'this is my second website'","author":"'babu2'","id":"1"},
-        {"title":"'my thid website '","body":"' this is third website'","author":"'babu3'","id":"2"}
-    
-]
+  "blogs": [
+    {
+      "id": "331e",
+      "title": "MY FIRST BLOG",
+      "body": "My brother's words echo in my mind: \"Challenges won't get easier, Aman. You get stronger.\" This philosophy has become my compass, guiding every decision I make. After completing eighth grade, I chose a highly competitive high school, a rigorous environment where only the top 5% of the city's students were selected. It was a deliberate jump, a mountain I wanted to climb.",
+      "author": " FIKIREMARIYAM BABU"
+    }
+  ]
 }

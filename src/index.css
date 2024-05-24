@@ -39,5 +39,45 @@ body {
 .content {
   max-width: 600px;
   margin:  auto;
-  padding:20px;
+  padding:30px;
+}
+/* create new blog form style*/
+.create{
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+.create label{
+  text-align: left;
+  display:block;
+
+}
+.create h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin: bottom 30px;
+
+}
+.create input, .create textarea, .create select{
+
+  width:100%;
+  padding: 16px 10px;
+  margin: 10px 10px;
+  border :1px solid #ddd;
+  border-radius: 10px;
+  display: block;
+  box-sizing: border-box;
+}
+.create textarea{
+  height: 140px;
+}
+.create button {
+  margin-left: 10px;
+  background: #f1356d;
+  color: #fff;
+  border:0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }

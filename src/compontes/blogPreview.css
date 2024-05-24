@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.blog-preview{
+    font-family: "Poetsen One", sans-serif;;
+    display: flex;
+    flex-direction: column;
+
+
+    margin: 20px;
+    padding: 20px;
+    
+    border-radius: 10px;
+    box-shadow: 0 0 15px #ccc;
+    
+    height: 100px;
+    overflow: hidden;
+    max-width: 800px;
+    margin:  1 auto;
+}
+.blog-preview:hover{
+    box-shadow: 0 0 15px #f1356d;
+
+}
+.blog-preview h1{
+    text-align: left;
+    font-size: 1.5rem;
+    color: #f1356d;
+}
+.blog-preview button{
+    float:right;
+
+    margin-top: 10px;
+
+    border: none;
+    background: #f1356d83;
+    border-radius: 15px;
+    color: #fff;
+
+    width: 20%;
+    height: 40px;
+}
+.blog-preview button:hover{
+    background: #f1356d;
+}
+.blog-preview h3{
+    margin-left: 15px; 
+
+    text-align: left;
+}
+.blog-preview a{
+    text-decoration: none;
+}
